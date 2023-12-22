@@ -1,0 +1,8 @@
+com.organisation.orgationisation
+com.organisation.orgationisation.controller
+com.organisation.orgationisation.dto
+com.organisation.orgationisation.entity
+com.organisation.orgationisation.exception
+com.organisation.orgationisation.repository
+com.organisation.orgationisation.service
+com.organisation.orgationisation.testCase
